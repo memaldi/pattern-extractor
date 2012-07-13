@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="User Entered Import Resolution" name="file:/C:/Documents%20and%20Settings/Eugenia/Desktop/SSSW2012/ontosem.owl" uri="ontosem.owl"/>
+    <uri id="User Entered Import Resolution" name="http://www.semanticweb.org/eugenia/ontologies/2012/6/ontosem.owl" uri="pattern-ext.owl"/>
+    <uri id="Imports Wizard Entry" name="http://www.semanticweb.org/eugenia/ontologies/2012/6/pattern" uri="pattern-ext.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1342197370918" name="http://morpheus.cs.umbc.edu/aks1/ontosem.owl" uri="entire-ont.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1342197370918" name="http://www.loa-cnr.it/ontologies/OWN/OWN.owl" uri="OWN.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1342197370918" name="http://www.semanticweb.org/eugenia/ontologies/2012/6/pattern" uri="pattern-ext.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1342197370918" name="http://www.w3.org/2002/07/owl" uri="ontosem.rdf"/>
+    </group>
+</catalog>
